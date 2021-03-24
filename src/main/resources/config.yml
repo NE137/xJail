@@ -1,0 +1,24 @@
+minutesPerKill: 10
+defaultTime: 10
+jailstickHitsRequired: 3
+region: "prison"
+
+escapeCommands:
+  - /bh %player% has just escaped from prison!
+  - /jc %player% has just escaped from prison!
+
+jailLocation:
+  0:
+    x: 0
+    y: 125
+    z: 0
+    world: world
+jailReleaseLocation:
+  world: world
+  x: 50
+  y: 125
+  z: 50
+
+allowedCommands:
+  - /jail
+  - /help

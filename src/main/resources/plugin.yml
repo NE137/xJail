@@ -1,0 +1,21 @@
+name: xJail
+author: N137
+version: 1.12.2
+main: me.N137.xJail.xJail
+depend: [Vault, WGRegionEvents]
+
+commands:
+  jail:
+    description: Holds a list of all the commands
+
+permissions:
+  xjail.jailstick.use:
+    description: Allows the usage of the jailstick
+  xjail.free:
+    description: Users with this permission can free people from jail.
+  xjail.getstick:
+    description: Allows the spawning in of jailsticks using /jail getstick
+  xjail.admin:
+    description: Allows the usage of the admin commands.
+  xjail.jail:
+    description: Allows you to jail a person.
