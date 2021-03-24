@@ -12,8 +12,11 @@
 ## Permissions 
 
 xjail.free - `Allows you to use /jail free`
+
 xjail.jail - `Allows you to use /jail jail`
+
 xjail.getstick - `Allows you to use /jail getstick`
+
 xjail.admin - `Allows you to use admin commands`
 
 ## Config.yml
